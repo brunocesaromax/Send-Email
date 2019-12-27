@@ -13,7 +13,7 @@ import java.util.Properties;
 public class AppTest {
 
     private String userName = "brunocesardevweb@gmail.com";
-    private String password = "crashbash96";
+    private String password = "xxxxxxzzz";
 
     /*Utilizando jUnit em vez de criar classe main para teste*/
     /*Lembrar de autorizar(ativar) o gmail criado para teste*/
